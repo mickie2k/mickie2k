@@ -7,7 +7,7 @@
 <br/>  
 
 ### Glad to see you here!  
-I’m a full-stack developer and i don't know what to write 🤣  
+Howdy, I'm Ball, a Computer Science student at KMITL. I've had a passion for developing and designing web applications since high school, and I'm excited to grow into a Fullstack Developer 
   
 <br/>  
 
