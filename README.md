@@ -7,7 +7,7 @@
 <br/>  
 
 ### Glad to see you here!  
-Howdy, I'm Ball, a Computer Science student at KMITL. I've had a passion for developing and designing web applications since high school, and I'm excited to grow into a Fullstack Developer 
+Howdy, I'm Ball, a Computer Science student at KMITL. I've had a passion for developing and designing web applications since high school, and I'm excited to grow into a Software Engineer 
   
 <br/>  
 
